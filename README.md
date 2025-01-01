@@ -1,2 +1,3 @@
 # project-demo
-thi is my demo.
+this is my demo.
+Author: tishaba jadav.
